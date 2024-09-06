@@ -4,7 +4,7 @@
   "description": "Simple interface for retrieving JSON payment requests and submitting payments",
   "main": "index.js",
   "dependencies": {
-    "secp256k1": "^3.5.0"
+    "secp256k1": "^4.0.3"
   },
   "devDependencies": {
     "async": "2.6.0",
